@@ -1,0 +1,63 @@
+/*FONTES*/
+h1{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
+}
+h2{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
+}
+h3{
+    font-family: 'Quicksand', sans-serif;
+}
+h4{
+    font-family: 'Quicksand', sans-serif;
+}
+a{
+    font-size: 30px;
+    font-family: 'Quicksand', sans-serif;
+    color: black;
+    font-weight: bold;
+}
+a:hover{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+/*MENU CABEÇALHO*/
+#menu{
+    height: 120px;
+    background-color: rgba(151, 249, 212, 1);
+}
+
+
+/*PONTOS DE COLETA*/
+.mapa{
+    text-align: center;
+    padding: 30px;    
+}
+button{
+    background-color: rgba(171, 231, 116, 1);
+    margin: 10px;
+    padding: 10px;
+    width: 150px;
+    border-radius: 20px;
+}
+#botoes{
+    align-items: center;
+}
+
+
+
+/* body{
+    background-color:  #C3E795;
+} */
+
+.label-form{
+    font-size:15pt;
+}
+.container-login{
+    margin-top: 25px; 
+    border: 1px solid rgba(0,0,0, .3);
+}
+
