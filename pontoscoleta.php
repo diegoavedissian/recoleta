@@ -21,12 +21,12 @@
             <div class="row">
                 <div class="row"><h3><strong>Selecione o tipo de resíduo que deseja descartar:</strong></h3></div>
                 <div class="row" id="botoes">
-                <button><img src="lampada.png" width="100" alt=""><br>Lampadas</button>
-                <button><img src="bateria.png" width="100" alt=""><br>Pilhas e Baterias</button>
-                <button><img src="papel.png" width="100" alt=""><br>Papel</button>
-                <button><img src="oleo.png" width="100" alt=""><br>óleo</button>
-                <button><img src="sucataeletro.png" width="100" alt=""><br>Sucata Eletronica</button>
-                <button><img src="organico.png" width="100" alt=""><br>Organicos</button>
+                <button><img src="./img/lampada.png" width="100" alt=""><br>Lampadas</button>
+                <button><img src="./img/bateria.png" width="100" alt=""><br>Pilhas e Baterias</button>
+                <button><img src="./img/papel.png" width="100" alt=""><br>Papel</button>
+                <button><img src="./img/oleo.png" width="100" alt=""><br>óleo</button>
+                <button><img src="./img/sucataeletro.png" width="100" alt=""><br>Sucata Eletronica</button>
+                <button><img src="./img/organico.png" width="100" alt=""><br>Organicos</button>
                 </div>
             </div>
     

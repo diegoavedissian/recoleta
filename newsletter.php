@@ -17,7 +17,7 @@
 
     <br>
     <div class="container text-center">
-        <img src="save.png" width="250px" alt="">
+        <img src="./img/save.png" width="250px" alt="">
         <h2>Lorem ipsum dolor.</h2>
         <h3>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempora error voluptate, minus molestiae, quos quae necessitatibus veritatis esse libero accusamus, quas autem aut doloribus earum maxime incidunt dolorem est reprehenderit? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laudantium maxime nihil autem vero doloribus quasi vitae perferendis unde beatae? Iste itaque eius vero alias accusantium laudantium dignissimos commodi quibusdam quaerat.</h3>
     </div>
