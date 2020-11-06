@@ -13,6 +13,12 @@ h3{
 h4{
     font-family: 'Quicksand', sans-serif;
 }
+h5{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Quicksand', sans-serif;
+    color: rgba(52, 120, 55, 1);
+}
 a{
     font-size: 30px;
     font-family: 'Quicksand', sans-serif;
@@ -23,13 +29,23 @@ a:hover{
     color: whitesmoke;
     text-decoration: none;
 }
+a.home{
+    color: white;
+    background-color: rgba(171, 231, 116, 1);
+    padding: 10px;
+    border-radius: 20px;
+}
 
 /*MENU CABEÇALHO*/
 #menu{
     height: 120px;
     background-color: rgba(151, 249, 212, 1);
 }
-
+#dropdownMenuButton{
+    border-style: none;
+    
+    border-radius: 20px;
+}
 
 /*PONTOS DE COLETA*/
 .mapa{
