@@ -35,6 +35,10 @@ a.home{
     padding: 10px;
     border-radius: 20px;
 }
+a.cadastro{
+    font-size: 15px;
+    font-family: 'Quicksand', sans-serif;
+}
 
 /*MENU CABEÇALHO*/
 #menu{
@@ -63,17 +67,12 @@ button{
     align-items: center;
 }
 
-
-
-/* body{
-    background-color:  #C3E795;
-} */
-
 .label-form{
     font-size:15pt;
 }
 .container-login{
     margin-top: 25px; 
     border: 1px solid rgba(0,0,0, .3);
+    border-radius: 20px;
 }
 

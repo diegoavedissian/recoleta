@@ -43,8 +43,8 @@ require("conexao.php");
         Senha
         <input type="password" name="senha" required placeholder="Senha de 8 digitos" maxlength="8" autofocus><br><br>
 
-        <button type="submit" name="incluir">Concluir cadastro</button>
-        <button type="submit" name="cancelar">Cancelar</button>
+        <button type="submit" name="incluir"><a href="home.php" class="cadastro">Concluir cadastro</a></button>
+        <button type="submit" name="cancelar"><a href="home.php" class="cadastro">Cancelar</a></button>
 
         <?php
          if (isset($_POST['razaosocial']) && isset($_POST['cnpj']) && isset($_POST['email']) && isset($_POST['telefone']) && isset($_POST['cep']) && isset($_POST['endereco']) && isset($_POST['senha'])) {
