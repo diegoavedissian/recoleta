@@ -34,7 +34,7 @@
                     </div>
                     <div class="row">
                         <div class="col-1">
-                            <button type="submit" name="cadastrar" class="btn btn-success mb-4" id="cadastrar-cliente"> Cadastrar </button>
+                            <button type="submit" name="cadastrar" class="btn btn-success mb-4"> Entrar </button>
                         </div>
                     </div>
                 </form>
